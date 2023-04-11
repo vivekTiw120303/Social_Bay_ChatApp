@@ -12,4 +12,17 @@ features
 
 Now, below are some screenshots of the app build by me, to give you an idea over it.
 
-<img src="https://github.com/vivekTiw120303/Social_Bay_ChatApp/blob/main/1.jpeg" width="250" height="450"/>
+<p float="left">
+    <img src="https://github.com/vivekTiw120303/Social_Bay_ChatApp/blob/main/1.jpeg" width="250" height="450"/>
+    <img src="https://github.com/vivekTiw120303/Social_Bay_ChatApp/blob/main/2.jpeg" width="250" height="450"/>
+    <img src="https://github.com/vivekTiw120303/Social_Bay_ChatApp/blob/main/3.jpeg" width="250" height="450"/>
+    <img src="https://github.com/vivekTiw120303/Social_Bay_ChatApp/blob/main/4.jpeg" width="250" height="450"/>
+    <img src="https://github.com/vivekTiw120303/Social_Bay_ChatApp/blob/main/5.jpeg" width="250" height="450"/>
+</p>
+
+-----------------------------------------------------------------------------------------------------------------
+
+The Apk can be found in above files names as "Apk File".
+
+
+P.S : I know there are some errors now, I will fix in near future, and also add some more features to it. Thankyou for feedback.
