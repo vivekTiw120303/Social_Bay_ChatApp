@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65868196594",
+    "project_id": "social-bay-41cf3",
+    "storage_bucket": "social-bay-41cf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65868196594:android:933234414645191d3bfe6b",
+        "android_client_info": {
+          "package_name": "com.example.social_bay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65868196594-101d5aqog8j0kmebv2lctvtflv3m7mld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqq8rwsnIMJCu72SDQfFxu5FIXrEG4Gtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65868196594-101d5aqog8j0kmebv2lctvtflv3m7mld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
