@@ -22,7 +22,4 @@ Now, below are some screenshots of the app build by me, to give you an idea over
 
 -----------------------------------------------------------------------------------------------------------------
 
-The Apk can be found in above files names as "Apk File".
-
-
 P.S : I know there are some errors now, I will fix in near future, and also add some more features to it. Thankyou for feedback.
