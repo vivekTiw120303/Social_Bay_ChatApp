@@ -12,3 +12,4 @@ features
 
 Now, below are some screenshots of the app build by me, to give you an idea over it.
 
+<img src="https://github.com/vivekTiw120303/Social_Bay_ChatApp/blob/main/1.jpeg" width="250" height="450"/>
