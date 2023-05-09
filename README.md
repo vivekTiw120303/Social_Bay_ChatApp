@@ -12,7 +12,20 @@ features
 
 Now, below are some screenshots of the app build by me, to give you an idea over it.
 
-<img src=![1](https://github.com/vivekTiw120303/Social_Bay_ChatApp/assets/122018699/47c7fc9a-62ce-49bf-9f37-9e7eba7c5818) width="250" height="450"/>
+
+
+https://github.com/vivekTiw120303/Social_Bay_ChatApp/assets/122018699/f2d4a51f-1a3f-4786-a4ce-297106386b75
+
+-----------------------------------------------------------------------------------------------------------------
+
+<p float="left">
+    <img width="225" height="500" src="https://github.com/vivekTiw120303/Social_Bay_ChatApp/assets/122018699/9b602488-9840-433d-9e13-ba7d202c89bf">
+    <img width="225" height="500" src="https://github.com/vivekTiw120303/Social_Bay_ChatApp/assets/122018699/01fc832c-c52a-43c2-92d7-e2aa28190353">
+    <img width="225" height="500" src="https://github.com/vivekTiw120303/Social_Bay_ChatApp/assets/122018699/b6476a66-59b7-4b58-83a4-b020d72c3127">
+    <img width="225" height="500" src="https://github.com/vivekTiw120303/Social_Bay_ChatApp/assets/122018699/7ea9bc24-4a2a-426e-9344-a4c4217efc4b)">
+    <img width="225" height="500" src="https://github.com/vivekTiw120303/Social_Bay_ChatApp/assets/122018699/62049461-59fc-4786-b502-17eecfbe1c61">
+    <img width="225" height="500" src="https://github.com/vivekTiw120303/Social_Bay_ChatApp/assets/122018699/2a7af167-2bff-4849-85a9-0d2a659f557e">
+</p>
 
 -----------------------------------------------------------------------------------------------------------------
 
