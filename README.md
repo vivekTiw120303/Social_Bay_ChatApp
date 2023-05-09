@@ -12,13 +12,7 @@ features
 
 Now, below are some screenshots of the app build by me, to give you an idea over it.
 
-<p float="left">
-    <img src="https://github.com/vivekTiw120303/Social_Bay_ChatApp/blob/main/1.jpeg" width="250" height="450"/>
-    <img src="https://github.com/vivekTiw120303/Social_Bay_ChatApp/blob/main/2.jpeg" width="250" height="450"/>
-    <img src="https://github.com/vivekTiw120303/Social_Bay_ChatApp/blob/main/3.jpeg" width="250" height="450"/>
-    <img src="https://github.com/vivekTiw120303/Social_Bay_ChatApp/blob/main/4.jpeg" width="250" height="450"/>
-    <img src="https://github.com/vivekTiw120303/Social_Bay_ChatApp/blob/main/5.jpeg" width="250" height="450"/>
-</p>
+<img src=![1](https://github.com/vivekTiw120303/Social_Bay_ChatApp/assets/122018699/47c7fc9a-62ce-49bf-9f37-9e7eba7c5818) width="250" height="450"/>
 
 -----------------------------------------------------------------------------------------------------------------
 
